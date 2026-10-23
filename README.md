@@ -1,16 +1,17 @@
-## Hi there 👋
+# André Mamede
 
-<!--
-**Andrre-M/Andrre-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados com atuação em Business Intelligence, análise de performance e automação de processos.
 
-Here are some ideas to get you started:
+Trabalho com Power BI, SQL, ClickHouse, ETL, Excel, APIs e Google Apps Script para criar análises confiáveis, melhorar processos e reduzir atividades manuais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projeto em destaque
+
+### TSE Urna Pipeline
+
+Pipeline de dados públicos com Python e Polars, validação em Parquet e dashboard estático.
+
+[Repositório](https://github.com/Andrre-M/tse-urna-pipeline) · [Dashboard](https://andrre-m.github.io/tse-urna-pipeline/)
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/andre-mamede/)
